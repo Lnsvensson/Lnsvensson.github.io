@@ -1,1 +1,1 @@
-[Download texture pack zip file]() <--- put the link to your file in the parens
+[Download texture pack zip file](delete_me.txt)
