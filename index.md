@@ -1,1 +1,1 @@
-[Download texture pack zip file](delete_me.txt)
+[Download texture pack zip file](Galactic27.zip)
